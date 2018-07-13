@@ -1,0 +1,15 @@
+{
+  "name": "simple-zoom-launcher",
+  "version": "1.0.0",
+  "description": "A simple Zoom conference launcher from serial port commands",
+  "main": "app.js",
+  "dependencies": {
+    "opn": "^5.3.0",
+    "serialport": "^6.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Marutpong chailangka"
+}
