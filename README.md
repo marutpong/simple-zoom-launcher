@@ -2,7 +2,7 @@
 Simple Zoom conference launcher from serial port commands
 
 # Quick guide
- - Install the latest LTS Versio of Node.js from https://nodejs.org/en/download/
+ - Install the latest LTS Versin of Node.js from https://nodejs.org/en/download/
  - Clone or download this repository
  - Poen Command Line or Terminal and go to local project's directory like 
     `cd ~/user/simple-zoom-launcher`
